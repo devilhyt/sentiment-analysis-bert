@@ -5,24 +5,21 @@ This repo provides code from the [基於BERT的文章情感識別](https://mediu
 
 ```
     .
-    ├── data                                  # PTT raw data
-    │   ├── happy.csv                  
+    ├── data                                    # PTT raw data
+    │   ├── happy.csv
     │   ├── hate.csv
     │   └── sad.csv
-    ├── image                                 # Chart of model training results
+    ├── image                                   # Chart of model training results
     │   ├── accuracy.png
     │   └── loss.png
-    ├── ptt_dataset                           # PTT dataset
-    │   ├── dataset.csv
+    ├── ptt_dataset                             # PTT dataset
+    │   ├── dataset.csv      
     │   ├── test.csv
     │   ├── train.csv
     │   └── validation.csv
-    ├── ptt_spider.py                         # PTT crawler tool
-    ├── sentiment-classification-bert.ipynb   # Main program
-    ├── visualize.ipynb                       # Visualizing Attention with BertViz
-    ├── bert-base-chinese                     # BERT pretrained model
-    ├── bert-base-chinese-20220610-5          # BERT fine-tuned model
-    └── Bert遷移學習 文章情感識別.pptx          # Presentation
+    ├── ptt_spider.py                           # PTT crawler tool
+    ├── sentiment-classification-bert.ipynb     # Main program
+    ├── visualize.ipynb                         # Visualizing Attention with BertViz
+    ├── bert-base-chinese                       # BERT pretrained model
+    └── bert-base-chinese-20220610-5            # BERT fine-tuned model
 ```
-
-
