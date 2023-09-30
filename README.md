@@ -20,6 +20,5 @@ This repo provides code from the [基於BERT的文章情感識別](https://mediu
     ├── ptt_spider.py                           # PTT crawler tool
     ├── sentiment-classification-bert.ipynb     # Main program
     ├── visualize.ipynb                         # Visualizing Attention with BertViz
-    ├── bert-base-chinese                       # BERT pretrained model
-    └── bert-base-chinese-20220610-5            # BERT fine-tuned model
+    └── bert-base-chinese                       # BERT pretrained model
 ```
